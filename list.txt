@@ -1,5 +1,6 @@
 测试9906,#genre#
 东森新闻[HD],mitv://147.135.39.171:9906/5eb29b85000e2d4e0f44a539793f250c.ts
+东森新闻,p2p://147.135.39.171:9906/5eb29b85000e2d4e0f44a539793f250c.ts
 东森财经新闻[HD],mitv://147.135.39.171:9906/5eec88f90004b79cf18c98952f812d55.ts
 东森亚洲,mitv://147.135.39.171:9906/5ede6859000be2b3ba5d17d529f60875.ts
 东森综合[HD],mitv://147.135.39.171:9906/5eb29b860006eefb0f44a74c7d3950ab.ts
@@ -139,10 +140,10 @@ TVBS欢乐(备三),p2p://fccsovh.pvbox.live:18912/5c72488a000a56b7c62c388ca35622
 
 
 港台测试4,#genre#
-凤凰中文,mitv://fccseuro.pvbox.live:18912/5b14092b00075956b021861efc75b7ed.ts
+凤凰中文,p2p://fccseuro.pvbox.live:18912/5b14092b00075956b021861efc75b7ed.ts
 凤凰中文,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
-凤凰中文,mitv://fccsovh.pvbox.live:18912/5b14092b00075956b021861efc75b7ed.ts
-凤凰资讯,mitv://fccseuro.pvbox.live:18912/5b14092b00090483328819f2db8ecad0.ts
+凤凰中文,p2p://fccsovh.pvbox.live:18912/5b14092b00075956b021861efc75b7ed.ts
+凤凰资讯,p2p://fccseuro.pvbox.live:18912/5b14092b00090483328819f2db8ecad0.ts
 凤凰资讯,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 凤凰资讯,mitv://fccsovh.pvbox.live:18912/5b14092b00090483328819f2db8ecad0.ts
 凤凰香港,mitv://fccseuro.pvbox.live:18912/5b14092b000ab058aba6213c0ddec4b0.ts
