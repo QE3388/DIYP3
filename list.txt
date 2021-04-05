@@ -1,6 +1,4 @@
 我的大叔-国语版,#genre#
-EP01，https://jx.qiuzeqi.top/m3u8/vod/%E6%88%91%E7%9A%84%E5%A4%A7%E5%8F%94-%E5%9B%BD%E8%AF%AD%E7%89%88/%E3%80%8A%E6%88%91%E7%9A%84%E5%A4%A7%E5%8F%94%E3%80%8B%E5%9B%BD%E8%AF%AD01.m3u8
-EP02,https://jx.qiuzeqi.top/m3u8/vod/%E4%BF%A1%E5%8F%B7-%E5%9B%BD%E8%AF%AD/%E4%BF%A1%E5%8F%B701%E5%9B%BD%E8%AF%AD%E7%89%88www.9ekk.com.m3u8
 
 
 台湾0198,#genre#
