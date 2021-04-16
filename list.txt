@@ -1,7 +1,129 @@
-我的大叔-国语版,#genre#
+$c_start港台海外$c_end
+壹新聞,http://stream.nexttv.com.tw/n001/playlist.m3u8
+壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 
+CNN,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12012&key=84797b799ae18d1b
+TVBS HD,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14015&key=84797b799ae18d1b
+TVBS新闻台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14017&key=84797b799ae18d1b
+寰宇新闻台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15005&key=84797b799ae18d1b
+中天新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14018&key=84797b799ae18d1b
+中天娱乐,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14020&key=84797b799ae18d1b
+东森戏剧,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14005&key=84797b799ae18d1b
+八大戏剧台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15003&key=84797b799ae18d1b
+纬来戏剧,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14012&key=84797b799ae18d1b
+东森综合,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14006&key=84797b799ae18d1b
+中天综合,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14019&key=84797b799ae18d1b
+美食星球,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8804&key=84797b799ae18d1b
+亚洲旅游台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11020&key=84797b799ae18d1b
+纬来日本,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14013&key=84797b799ae18d1b
+BBC Earth,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11005&key=84797b799ae18d1b
+HBO,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13001&key=84797b799ae18d1b
+HBO HITS,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13002&key=84797b799ae18d1b
+HBO signature,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13004&key=84797b799ae18d1b
+HBO family,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13003&key=84797b799ae18d1b
+Discovery,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13008&key=84797b799ae18d1b
+Discovery Scirnce,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13010&key=84797b799ae18d1b
+Discovery Asia,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13009&key=84797b799ae18d1b
+National Geographic,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13012&key=84797b799ae18d1b
+TLC,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13013&key=84797b799ae18d1b
+Crime Investigation,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11013&key=84797b799ae18d1b
 
-台湾0198,#genre#
+$c_start台湾TW 纳加$c_end
+台视,vjms://198.255.90.44:8500:3502/live/cid=453#vjms://122.155.180.8:8500:5021/live/cid=453#
+中视,vjms://198.255.90.44:8500:3502/live/cid=452#vjms://122.155.180.8:8500:5021/live/cid=452#
+华视,vjms://198.255.90.44:8500:3502/live/cid=451#vjms://122.155.180.8:8500:5021/live/cid=451#
+民视,vjms://198.255.90.44:8500:3502/live/cid=450#vjms://122.155.180.8:8500:5021/live/cid=450#
+公视3,vjms://198.255.90.44:8500:3502/live/cid=436#vjms://122.155.180.8:8500:5021/live/cid=436#
+TLC旅游生活,vjms://198.255.90.44:8500:3502/live/cid=103#vjms://122.155.180.8:8500:5021/live/cid=103#
+国家地理野生,vjms://198.255.90.44:8500:3502/live/cid=263#vjms://122.155.180.8:8500:5021/live/cid=263#
+国家地理HD,vjms://198.255.90.44:8500:3502/live/cid=115#vjms://122.155.180.8:8500:5021/live/cid=115#
+探索频道,vjms://198.255.90.44:8500:3502/live/cid=397#vjms://122.155.180.8:8500:5021/live/cid=397#
+探索世界,vjms://198.255.90.44:8500:3502/live/cid=440#vjms://122.155.180.8:8500:5021/live/cid=440#
+探索科学,vjms://198.255.90.44:8500:3502/live/cid=457#vjms://122.155.180.8:8500:5021/live/cid=457#
+三立台湾,vjms://198.255.90.44:8500:3502/live/cid=437#vjms://122.155.180.8:8500:5021/live/cid=437#
+三立都会,vjms://198.255.90.44:8500:3502/live/cid=226#vjms://122.155.180.8:8500:5021/live/cid=226#
+八大综合,vjms://198.255.90.44:8500:3502/live/cid=354#vjms://122.155.180.8:8500:5021/live/cid=354#
+八大第1,vjms://198.255.90.44:8500:3502/live/cid=441#vjms://122.155.180.8:8500:5021/live/cid=441#
+东森戏剧,vjms://198.255.90.44:8500:3502/live/cid=425#vjms://122.155.180.8:8500:5021/live/cid=425#
+东森超视,vjms://198.255.90.44:8500:3502/live/cid=426#vjms://122.155.180.8:8500:5021/live/cid=426#
+东森电影,vjms://198.255.90.44:8500:3502/live/cid=338#vjms://122.155.180.8:8500:5021/live/cid=338#
+东森洋片,vjms://198.255.90.44:8500:3502/live/cid=343#vjms://122.155.180.8:8500:5021/live/cid=343#
+东森综合,vjms://198.255.90.44:8500:3502/live/cid=333#vjms://122.155.180.8:8500:5021/live/cid=333#
+JET综合,vjms://198.255.90.44:8500:3502/live/cid=339#vjms://122.155.180.8:8500:5021/live/cid=339#
+年代MUCH,vjms://198.255.90.44:8500:3502/live/cid=439#vjms://122.155.180.8:8500:5021/live/cid=439#
+中天综合,vjms://198.255.90.44:8500:3502/live/cid=341#vjms://122.155.180.8:8500:5021/live/cid=341#
+中天娱乐,vjms://198.255.90.44:8500:3502/live/cid=350#vjms://122.155.180.8:8500:5021/live/cid=350#
+TVBS,vjms://198.255.90.44:8500:3502/live/cid=349#vjms://122.155.180.8:8500:5021/live/cid=349#
+TVBS欢乐,vjms://198.255.90.44:8500:3502/live/cid=438#vjms://122.155.180.8:8500:5021/live/cid=438#
+纬来戏剧,vjms://198.255.90.44:8500:3502/live/cid=445#vjms://122.155.180.8:8500:5021/live/cid=445#
+纬来电影,vjms://198.255.90.44:8500:3502/live/cid=446#vjms://122.155.180.8:8500:5021/live/cid=446#
+纬来日本,vjms://198.255.90.44:8500:3502/live/cid=332#vjms://122.155.180.8:8500:5021/live/cid=332#
+国兴卫视,vjms://198.255.90.44:8500:3502/live/cid=424#vjms://122.155.180.8:8500:5021/live/cid=424#
+HBO HD,vjms://198.255.90.44:8500:3502/live/cid=261#vjms://122.155.180.8:8500:5021/live/cid=261#
+HBO原创,vjms://198.255.90.44:8500:3502/live/cid=236#vjms://122.155.180.8:8500:5021/live/cid=236#
+HBO强档,vjms://198.255.90.44:8500:3502/live/cid=238#vjms://122.155.180.8:8500:5021/live/cid=238#
+HBO温馨,vjms://198.255.90.44:8500:3502/live/cid=181#vjms://122.155.180.8:8500:5021/live/cid=181#
+卫视电影,vjms://198.255.90.44:8500:3502/live/cid=101#vjms://122.155.180.8:8500:5021/live/cid=101#
+AXN电影,vjms://198.255.90.44:8500:3502/live/cid=102#vjms://122.155.180.8:8500:5021/live/cid=102#
+壹新闻,vjms://198.255.90.44:8500:3502/live/cid=137#vjms://122.155.180.8:8500:5021/live/cid=137#
+三立新闻,vjms://198.255.90.44:8500:3502/live/cid=352#vjms://122.155.180.8:8500:5021/live/cid=352#
+年代新闻,vjms://198.255.90.44:8500:3502/live/cid=455#vjms://122.155.180.8:8500:5021/live/cid=455#
+民视新闻,vjms://198.255.90.44:8500:3502/live/cid=454#vjms://122.155.180.8:8500:5021/live/cid=454#
+东森新闻,vjms://198.255.90.44:8500:3502/live/cid=340#vjms://122.155.180.8:8500:5021/live/cid=340#
+东森财经,vjms://198.255.90.44:8500:3502/live/cid=456#vjms://122.155.180.8:8500:5021/live/cid=456#
+中天新闻,vjms://198.255.90.44:8500:3502/live/cid=407#vjms://122.155.180.8:8500:5021/live/cid=407#
+TVBS新闻,vjms://198.255.90.44:8500:3502/live/cid=348#vjms://122.155.180.8:8500:5021/live/cid=348#
+非凡新闻,vjms://198.255.90.44:8500:3502/live/cid=443#vjms://122.155.180.8:8500:5021/live/cid=443#
+互动新闻,vjms://198.255.90.44:8500:3502/live/cid=366#vjms://122.155.180.8:8500:5021/live/cid=366#
+FOX新闻,vjms://198.255.90.44:8500:3502/live/cid=97#vjms://122.155.180.8:8500:5021/live/cid=97#
+CNBC新闻,vjms://198.255.90.44:8500:3502/live/cid=98#vjms://122.155.180.8:8500:5021/live/cid=98#
+BBC新闻,vjms://198.255.90.44:8500:3502/live/cid=418#vjms://122.155.180.8:8500:5021/live/cid=418#
+CNN新闻,vjms://198.255.90.44:8500:3502/live/cid=428#vjms://122.155.180.8:8500:5021/live/cid=428#
+法国国际五台,vjms://198.255.90.44:8500:3502/live/cid=396#vjms://122.155.180.8:8500:5021/live/cid=396#
+纬来体育,vjms://198.255.90.44:8500:3502/live/cid=202#vjms://122.155.180.8.8500:5021/live/cid=202#
+博斯高球,vjms://198.255.90.44:8500:3502/live/cid=265#vjms://122.155.180.8:8500:5021/live/cid=265#
+爱尔达体育,vjms://198.255.90.44:8500:3502/live/cid=266#vjms://122.155.180.8:8500:5021/live/cid=266#
+NBA篮球,vjms://198.255.90.44:8500:3502/live/cid=227#vjms://122.155.180.8:8500:5021/live/cid=227#
+MLB棒球,vjms://198.255.90.44:8500:3502/live/cid=228#vjms://122.155.180.8:8500:5021/live/cid=228#
+FOX2体育,vjms://198.255.90.44:8500:3502/live/cid=444#vjms://122.155.180.8:8500:5021/live/cid=444#
+FOX3体育,vjms://198.255.90.44:8500:3502/live/cid=95#vjms://122.155.180.8:8500:5021/live/cid=95#
+东森幼幼,vjms://198.255.90.44:8500:3502/live/cid=344#vjms://122.155.180.8:8500:5021/live/cid=344#
+迪士尼卡通,vjms://198.255.90.44:8500:3502/live/cid=361#vjms://122.155.180.8:8500:5021/live/cid=361#
+CN卡通,vjms://198.255.90.44:8500:3502/live/cid=422#vjms://122.155.180.8:8500:5021/live/cid=422#
+大爱,vjms://198.255.90.44:8500:3502/live/cid=442#vjms://122.155.180.8:8500:5021/live/cid=442#
+好消息,vjms://198.255.90.44:8500:3502/live/cid=447#vjms://122.155.180.8:8500:5021/live/cid=447#
+凤凰中文,vjms://198.255.90.44:8500:3502/live/cid=400#vjms://122.155.180.8:8500:5021/live/cid=400#
+凤凰资讯,vjms://198.255.90.44:8500:3502/live/cid=401#vjms://122.155.180.8:8500:5021/live/cid=401#
+翡翠台,vjms://198.255.90.44:8500:3502/live/cid=362#vjms://122.155.180.8:8500:5021/live/cid=362#
+J2,vjms://198.255.90.44:8500:3502/live/cid=368#vjms://122.155.180.8:8500:5021/live/cid=368#
+J5,vjms://198.255.90.44:8500:3502/live/cid=363#vjms://122.155.180.8:8500:5021/live/cid=363#
+明珠台,vjms://198.255.90.44:8500:3502/live/cid=367#vjms://122.155.180.8:8500:5021/live/cid=367#
+澳亚卫视,vjms://198.255.90.44:8500:3502/live/cid=337#vjms://122.155.180.8:8500:5021/live/cid=337#
+
+$c_start香港 TV$c_end
+無綫新聞,https://cdn.hkdtmb.com/hls/83/index.m3u8
+無綫財經資訊,https://cdn.hkdtmb.com/hls/85/index.m3u8
+翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
+J2台,https://cdn.hkdtmb.com/hls/82/index.m3u8
+明珠台,l,https://cdn.hkdtmb.com/hls/84/index.m3u8
+RTHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8
+RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
+RTHK33,https://cdn.hkdtmb.com/hls/33/index.m3u8
+香港开电视,https://cdn.hkdtmb.com/hls/77/index.m3u8
+香港国际財經台,https://cdn.hkdtmb.com/hls/76/index.m3u8
+ViuTV ,http://hls.globaliptv.ml/viu99.php
+ViuTV6 ,http://hls.globaliptv.ml/viu96.php
+TVB 翡翠台A,http://hls.globaliptv.ml/tvbjade.php#http://61.238.6.49:8000/bysid/1
+TVB 星河A,p2p://147.135.39.171:9906/5ea53a9a000d39fddb01fd3f19aa567e.ts
+TVB 明珠台A,http://hls.globaliptv.ml/tvbpearl.php#mitv://147.135.39.171:9906/5defe1400004ed256eba461e3fa17ad5.ts
+TVB J2A,http://hls.globaliptv.ml/tvbj2.php#p2p://147.135.39.171:9906/5defdab5000c62a56ea0b90a0b532a03.ts
+TVB 无线新闻台A,http://tv.sason.xyz/proxy/tvb.php?id=xw#http://155.94.164.191/live.php?id=1#http://61.238.6.49:8001/bysid/83
+TVB 无线财经台A,http://tv.sason.xyz/proxy/tvb.php?id=cj#http://155.94.164.191/live.php?id=2#http://61.238.6.49:8001/bysid/85#http://livetv.dnsfor.me/channel.11.m3u8
+ViuTV A,http://hls.globaliptv.ml/viu99.php#mitv://147.135.39.171:9906/5d9a2e7b000d28609cc0d68b68a05dd1.ts#http://61.238.6.49:8000/bysid/99
+ViuTV6 A,http://hls.globaliptv.ml/viu96.php
+
+$c_start台湾0198$c_end
+
 中天综合,p8p://0198.02686.cc:16871/5f2e5d8000072f111d966b23e859debb
 中天娱乐,p8p://0198.02686.cc:16871/5f2e5e8d0000e5811d9a844fa7cb37a6
 中天新闻,p8p://0198.02686.cc:16871/5f2f9178000c4ec022496d33f280ef95
