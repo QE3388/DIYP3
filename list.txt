@@ -299,8 +299,8 @@ CCTV17 8M1080,http://39.134.24.24/PLTV/88888888/224/3221225859/index.m3u8
 咪咕视频 1080,http://39.134.24.24/PLTV/88888888/224/3221225599/index.m3u8
 咪咕视频 1080,http://39.134.24.24/PLTV/88888888/224/3221225601/index.m3u8
 
-$c_start台湾0198$c_end
-纪实人文,#genre#
+$c_start纪实人文$c_end
+
 求索动物 8M,http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
 求索生活 8M,http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
 求索科学 8M,http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
@@ -312,177 +312,26 @@ newtv体育,http://111.13.42.42/PLTV/88888888/224/3221226157/1.m3u8
 newtv综艺,http://111.13.42.42/PLTV/88888888/224/3221226231/1.m3u8
 newtv武博世界,http://111.13.42.42/PLTV/88888888/224/3221226171/1.m3u8
 
-$c_start最佳李純信$c_end
+$c_startTEST TVBUS$c_end
+tvbus,tvbus://6XEzrL9EgziDNo1iTdiBAsSJ6MEkTr4ApWE7GzeBNsUDLsXAGacdkMwWkq17A
 
-第01集,https://iqiyi.cdn25-okzy.com/20200718/12523_8b9f196c/index.m3u8
-第02集,https://iqiyi.cdn25-okzy.com/20200718/12524_76deb9b1/index.m3u8
-第03集,https://iqiyi.cdn25-okzy.com/20200718/12525_220f9a48/index.m3u8
-第04集,https://iqiyi.cdn25-okzy.com/20200718/12526_841c5cfd/index.m3u8
-第05集,https://iqiyi.cdn25-okzy.com/20200718/12527_e14f9182/index.m3u8
-第06集,https://iqiyi.cdn25-okzy.com/20200718/12528_3c020f88/index.m3u8
-第07集,https://iqiyi.cdn25-okzy.com/20200718/12529_fafd41b0/index.m3u8
-第08集,https://iqiyi.cdn25-okzy.com/20200718/12530_16d0b473/index.m3u8
-第09集,https://iqiyi.cdn25-okzy.com/20200718/12531_26e624c8/index.m3u8
-第10集,https://iqiyi.cdn25-okzy.com/20200718/12532_64e8f35b/index.m3u8
-第11集,https://iqiyi.cdn25-okzy.com/20200718/12533_39be999b/index.m3u8
-第12集,https://iqiyi.cdn25-okzy.com/20200718/12534_c08452e9/index.m3u8
-第13集,https://iqiyi.cdn25-okzy.com/20200718/12535_8b0b9dd9/index.m3u8
-第14集,https://iqiyi.cdn25-okzy.com/20200718/12536_cf4cd52a/index.m3u8
-第15集,https://iqiyi.cdn25-okzy.com/20200718/12537_19e1607c/index.m3u8
-第16集,https://iqiyi.cdn25-okzy.com/20200718/12538_621c4f5f/index.m3u8
-第17集,https://iqiyi.cdn25-okzy.com/20200718/12539_83989f0a/index.m3u8
-第18集,https://iqiyi.cdn25-okzy.com/20200718/12540_c78d4592/index.m3u8
-第19集,https://iqiyi.cdn25-okzy.com/20200718/12541_08b15e73/index.m3u8
-第20集,https://iqiyi.cdn25-okzy.com/20200718/12542_53ec310b/index.m3u8
-第21集,https://iqiyi.cdn25-okzy.com/20200718/12543_63a5d124/index.m3u8
-第22集,https://iqiyi.cdn25-okzy.com/20200718/12544_43db575c/index.m3u8
-第23集,https://iqiyi.cdn25-okzy.com/20200718/12545_50312882/index.m3u8
-第24集,https://iqiyi.cdn25-okzy.com/20200718/12546_8332d6a9/index.m3u8
-第25集,https://iqiyi.cdn25-okzy.com/20200718/12547_6ed5bd68/index.m3u8
-第26集,https://iqiyi.cdn25-okzy.com/20200718/12548_b70a8aad/index.m3u8
-第27集,https://iqiyi.cdn25-okzy.com/20200718/12549_eea831a7/index.m3u8
-第28集,https://iqiyi.cdn25-okzy.com/20200718/12550_30d8bfed/index.m3u8
-第29集,https://iqiyi.cdn25-okzy.com/20200718/12551_8ce3e36b/index.m3u8
-第30集,https://iqiyi.cdn25-okzy.com/20200718/12552_5b18f41e/index.m3u8
-第31集,https://iqiyi.cdn25-okzy.com/20200718/12553_0eef9688/index.m3u8
-第32集,https://iqiyi.cdn25-okzy.com/20200718/12554_a60d2356/index.m3u8
-第33集,https://iqiyi.cdn25-okzy.com/20200718/12555_6f83c1fa/index.m3u8
-第34集,https://iqiyi.cdn25-okzy.com/20200718/12556_6b512cea/index.m3u8
-第35集,https://iqiyi.cdn25-okzy.com/20200718/12557_1c805b6c/index.m3u8
-第36集,https://iqiyi.cdn25-okzy.com/20200718/12558_233c3233/index.m3u8
-第37集,https://iqiyi.cdn25-okzy.com/20200718/12559_5c2dbcc5/index.m3u8
-第37集A,https://iqiyi.cdn25-okzy.com/20200718/12559_5c2dbcc5/1200k/hls/index.m3u8
-第38集,https://iqiyi.cdn25-okzy.com/20200718/12560_d30d66a6/index.m3u8
-第39集,https://iqiyi.cdn25-okzy.com/20200718/12561_5b3782c3/index.m3u8
-第40集,https://iqiyi.cdn25-okzy.com/20200718/12562_20f886ed/index.m3u8
-第41集,https://iqiyi.cdn25-okzy.com/20200718/12563_0c0a081f/index.m3u8
-第42集,https://iqiyi.cdn25-okzy.com/20200718/12564_9b2e484d/index.m3u8
-第43集,https://iqiyi.cdn25-okzy.com/20200718/12565_eec968c2/index.m3u8
-第44集,https://iqiyi.cdn25-okzy.com/20200718/12566_bc47a2fa/index.m3u8
-第44集A,https://iqiyi.cdn25-okzy.com/20200718/12566_bc47a2fa/1200k/hls/index.m3u8
-第45集,https://iqiyi.cdn25-okzy.com/20200718/12567_63494c16/index.m3u8
-第46集,https://iqiyi.cdn25-okzy.com/20200718/12568_580e1763/index.m3u8
-第47集,https://iqiyi.cdn25-okzy.com/20200718/12569_b7d0029f/index.m3u8
-第48集,https://iqiyi.cdn25-okzy.com/20200718/12570_d9405e52/index.m3u8
-第49集,https://iqiyi.cdn25-okzy.com/20200718/12571_20d47c2d/index.m3u8
-第50集,https://iqiyi.cdn25-okzy.com/20200718/12572_c47c6540/index.m3u8
+中天娱乐,tvbus://6XFa2kYAStDvecKtn6Zy8h93kvFaWY3eSKt7BP9phpGywAc1PJFkGfHw5qo6R
+东森戏剧,tvbus://5oVqYGutbkbRbkZa9DXwjDtAjLHMQ2V8HZ5EF73Zy8jcYEZbJAr2HURvqftBL
+八大戏剧,tvbus://5upkUXxwXcjLDtUuffF2ZPfQiCEbDgvhbP8GU7yocirn9qrfRsvjZeq3uaER9
+TVBS欢乐,tvbus://5iuZdrPxQDmVpNk2RvS5p7U9UMSk1r7CrcjvpP1yzBQjMe6GytF3bDqbiF1vo
+纬来戏剧,tvbus://64GFZ6uKjo9WiZHyHw8vuiqtuygNEc7KNJLTvZEkkF7i36kqoUSS4oMxxajtR
+SKY_NEWS,tvbus://6Hsp8nLpCF8Z8WVJyXLN8z3mdFHR7Mdavd64Hc49vTKWrwGxECunB76Gcxkvh
+靖天映画,tvbus://5Y2LJHzn8EExip1PfcGApZxJLg7qUzqWpf7NiWvencGEnBEe9db9pCd5TrpHc
+壹电视新闻台,tvbus://6VxQAotw4pWJEc6KG7vLj4amLjRtZov2tizb3Jo3CgfBgaahJsnreepQpWL7X
+年代新闻,tvbus://644CvCRxBrPxB4nW7u4shAHTbuEaRKCcN1y39E6bX6bVSuALpZ7ZsPTzmsRMN
+东森新闻,tvbus://5SiRxAgocLNdjGDhS3QsJVs8oKjwsDjHZBzVggh3Swv1AAoPzq6oDfa2ZMcDk
+中天新闻,tvbus://6bwLyETqFVQRVffwpoF2xFTiGRKqQ5y9Wrjab6973ErVkfV6FTbEgVoNHXwBS
+民视新闻台HD,tvbus://6jFetiFjCWXsqPDsuGyy49zbmRtbHmkoosUuDtmYR4W89jPaxqfeRLScGUYwB
+三立新闻,tvbus://7GdvmGzuRdupgWZWAuE6YVqQrRT4xj4cKRttsyEY4aRtVRMSzC
+TVBS,tvbus://65qXnWpqWqgbrh5nhu8jE5eYgx5TcwFWCLSgHjkYip1quwX47T9se7J8peFbK
+东森财经新闻,tvbus://5bY69cepoVBMLLDSy3mDoo8QBJQRmRvgEHqHiJayEqejKoS6Z47qRqjewb9TB
+
+
 
 $c_startP8P SGMY$c_end
 
-Astro华丽台,p8p://198.255.106.42:16871/5ecfb36000001d6396821ea0563496d9
-Astro欢喜台,p8p://198.255.106.42:16871/5ecfb90800040601969837e0aa1efa5c
-Astro双星,p8p://198.255.106.42:16871/5f38d8fd000caa6e4688ccd211ea705f
-Astro AEC,p8p://198.255.106.42:16871/5ebce360000578b04d059fff4c2e3e3b
-Astro AOD,p8p://198.255.106.42:16871/5f2c09ae00029cc4147efda7dcc27dfc
-新加坡 5,p8p://198.255.106.42:16871/5f48befd0008c5702413bdf1cb4c3d16
-新加坡 8,p8p://198.255.106.42:16871/5f48bcef000819da240bb715c294ee99
-新加坡 u,p8p://198.255.106.42:16871/5f48bdc00000a914240ee5961e42ddb9
-国家地理,p8p://198.255.106.42:16871/5f34ca1f000a502236aeb9084d9c2802
-迪士尼,p8p://198.255.106.42:16871/5f2e56c60009eeab1d7c254786d1c06b
-动物星球,p8p://198.255.106.42:16871/5d1a69da000a2acf11be734ba3f44eda
-TLC旅游,p8p://198.255.106.42:16871/5f2e54d6000c0f901d7494527e9c38a8
-年代新闻,p8p://198.255.106.42:16871/5d1a69bb000e0fd711bdfb32923ec02b
-非凡新闻,p8p://198.255.106.42:16871/5d1a69d500091c6b11be5f7e1276fa82
-博斯网球,p8p://198.255.106.42:16871/5d4c07370004e10e9fd599bbf1aae42b
-Z频道,p8p://198.255.106.42:16871/5d1a69ac000bbbd711bdc002921c2017
-FOX_SPORTS,p8p://198.255.106.42:16871/5f380ea60005e9564372673f4fa697fd
-FOX_MOVIES,p8p://198.255.106.42:16871/5f2facfc000be0b622b4e8b621e53cca
-AXN,p8p://198.255.106.42:16871/5f2fab5700094c3622ae7b8589ead9b0
-HBO,p8p://198.255.106.42:16871/5f2faab60000da2822ac0474501db664
-CINEMAX,p8p://198.255.106.42:16871/5f2fad7f0006356c22b6e6fb18281642
-BBC_Earth,p8p://198.255.106.42:16871/5f37e7c6000e815e42da8e731be212cf
-
-$c_startP8P日本 $c_end
-
-読売テレビ,p8p://198.255.106.42:16871/5d414f6d00024d6a75f7ac02caeafefc.ts
-NHK総合-大阪,p8p://198.255.106.42:16871/5d414f6c00077b3d75f7a96d657b07ca.ts
-テレビ朝日,p8p://198.255.106.42:16871/5d414f6a000606ea75f7a13e185ff3ac.ts
-BS日本映画専门ch,p8p://198.255.106.42:16871/5d414f66000120c375f7905ddc89411f.ts
-ディズニーチャンネルHD,p8p://198.255.106.42:16871/5d414f670007f99c75f79605c29ad2f3.ts
-时代剧専门chHD,p8p://198.255.106.42:16871/5d414f090005219175f6261b9435013a.ts
-TOKYO　MX,p8p://198.255.106.42:16871/5d414e7c00096eb975f4006de34ca37e.ts
-サンテレビ,p8p://198.255.106.42:16871/5d400580000c583e70eee8cc921a4eb4.ts
-NHKBS1,p8p://198.255.106.42:16871/5d40058100043b7170eeeaa0dd43366a.ts
-BS朝日,p8p://198.255.106.42:16871/5d400582000d61d070eef0e0b97dc63c.ts
-関西テレビ,p8p://198.255.106.42:16871/5d40057f0002f0b670eee27c7e0cae84.ts
-MBS毎日放送,p8p://198.255.106.42:16871/5d40057e000b0ab570eee0a6c5bec41b.ts
-Nation,p8p://198.255.106.42:16871/5d1a69e2000bb03311be92ef2a2330ac.ts
-25,p8p://198.255.106.42:16871/5d1a695e000a3f8f11bc8ef07ef72e30.ts
-Movie_TV,p8p://198.255.106.42:16871/5d1a69e100040c4b11be8d124a4f4447.ts
-WP,p8p://198.255.106.42:16871/5d1a69f600023bca11bedea3bf1b937b.ts
-3,p8p://198.255.106.42:16871/5d1a695f000648b011bc91d5fde79a51.ts
-No_Service,p8p://198.255.106.42:16871/5d1a69e7000cff0b11bea6cd57a945c2.ts
-ThairathTv,p8p://198.255.106.42:16871/5d1a69ee000cf50811bec2224d35c419.ts
-CH.9,p8p://198.255.106.42:16871/5d1a69710006f75211bcd8515d005138.ts
-News_1,p8p://198.255.106.42:16871/5d1a69e50009ada611be9e2382445a24.ts
-7,p8p://198.255.106.42:16871/5d1a69600001e93b11bc949ed0710e31.ts
-8,p8p://198.255.106.42:16871/5d1a6960000d01a711bc9775a84751d1.ts
-M_Channel,p8p://198.255.106.42:16871/5d1a69e000083da011be8a3df3ee304a.ts
-FAH_WAN_MAI,p8p://198.255.106.42:16871/5d1a697c0003bc2911bd027666ca5967.ts
-Spring,p8p://198.255.106.42:16871/5d1a69e9000f3cb011beaf2f0ed9fa6c.ts
-TPBS,p8p://198.255.106.42:16871/5d1a69f100012dda11becad65c4970fe.ts
-Super_Ent,p8p://198.255.106.42:16871/5d1a69eb00066bb811beb4be2e00f8bf.ts
-News1_(USA),p8p://198.255.106.42:16871/5d1a69e600058ab011bea0fc8a6fa32d.ts
-CH.1,p8p://198.255.106.42:16871/5d1a6970000ba43811bcd59c32d704df.ts
-TGN,p8p://198.255.106.42:16871/5d1a69ee00020c6911bebf57495301ab.ts,#genre#
-読売テレビ,p8p://198.255.106.42:16871/5d414f6d00024d6a75f7ac02caeafefc.ts
-NHK総合-大阪,p8p://198.255.106.42:16871/5d414f6c00077b3d75f7a96d657b07ca.ts
-テレビ朝日,p8p://198.255.106.42:16871/5d414f6a000606ea75f7a13e185ff3ac.ts
-BS読売テレビ,p8p://198.255.106.42:16871/5d414f6d00024d6a75f7ac02caeafefc.ts
-NHK総合-大阪,p8p://198.255.106.42:16871/5d414f6c00077b3d75f7a96d657b07ca.ts
-テレビ朝日,p8p://198.255.106.42:16871/5d414f6a000606ea75f7a13e185ff3ac.ts
-BS日本映画専门ch,p8p://198.255.106.42:16871/5d414f66000120c375f7905ddc89411f.ts
-ディズニーチャンネルHD,p8p://198.255.106.42:16871/5d414f670007f99c75f79605c29ad2f3.ts
-时代剧専门chHD,p8p://198.255.106.42:16871/5d414f090005219175f6261b9435013a.ts
-TOKYO　MX,p8p://198.255.106.42:16871/5d414e7c00096eb975f4006de34ca37e.ts
-サンテレビ,p8p://198.255.106.42:16871/5d400580000c583e70eee8cc921a4eb4.ts
-NHKBS1,p8p://198.255.106.42:16871/5d40058100043b7170eeeaa0dd43366a.ts
-BS朝日,p8p://198.255.106.42:16871/5d400582000d61d070eef0e0b97dc63c.ts
-関西テレビ,p8p://198.255.106.42:16871/5d40057f0002f0b670eee27c7e0cae84.ts
-MBS毎日放送,p8p://198.255.106.42:16871/5d40057e000b0ab570eee0a6c5bec41b.ts
-Nation,p8p://198.255.106.42:16871/5d1a69e2000bb03311be92ef2a2330ac.ts
-25,p8p://198.255.106.42:16871/5d1a695e000a3f8f11bc8ef07ef72e30.ts
-Movie_TV,p8p://198.255.106.42:16871/5d1a69e100040c4b11be8d124a4f4447.ts
-WP,p8p://198.255.106.42:16871/5d1a69f600023bca11bedea3bf1b937b.ts
-3,p8p://198.255.106.42:16871/5d1a695f000648b011bc91d5fde79a51.ts
-No_Service,p8p://198.255.106.42:16871/5d1a69e7000cff0b11bea6cd57a945c2.ts
-ThairathTv,p8p://198.255.106.42:16871/5d1a69ee000cf50811bec2224d35c419.ts
-CH.9,p8p://198.255.106.42:16871/5d1a69710006f75211bcd8515d005138.ts
-News_1,p8p://198.255.106.42:16871/5d1a69e50009ada611be9e2382445a24.ts
-7,p8p://198.255.106.42:16871/5d1a69600001e93b11bc949ed0710e31.ts
-8,p8p://198.255.106.42:16871/5d1a6960000d01a711bc9775a84751d1.ts
-M_Channel,p8p://198.255.106.42:16871/5d1a69e000083da011be8a3df3ee304a.ts
-FAH_WAN_MAI,p8p://198.255.106.42:16871/5d1a697c0003bc2911bd027666ca5967.ts
-Spring,p8p://198.255.106.42:16871/5d1a69e9000f3cb011beaf2f0ed9fa6c.ts
-TPBS,p8p://198.255.106.42:16871/5d1a69f100012dda11becad65c4970fe.ts
-Super_Ent,p8p://198.255.106.42:16871/5d1a69eb00066bb811beb4be2e00f8bf.ts
-News1_(USA),p8p://198.255.106.42:16871/5d1a69e600058ab011bea0fc8a6fa32d.ts
-CH.1,p8p://198.255.106.42:16871/5d1a6970000ba43811bcd59c32d704df.ts
-TGN,p8p://198.255.106.42:16871/5d1a69ee00020c6911bebf57495301ab.ts映画専门ch,p8p://198.255.106.42:16871/5d414f66000120c375f7905ddc89411f.ts
-ディズニーチャンネルHD,p8p://198.255.106.42:16871/5d414f670007f99c75f79605c29ad2f3.ts
-时代剧専门chHD,p8p://198.255.106.42:16871/5d414f090005219175f6261b9435013a.ts
-TOKYO　MX,p8p://198.255.106.42:16871/5d414e7c00096eb975f4006de34ca37e.ts
-サンテレビ,p8p://198.255.106.42:16871/5d400580000c583e70eee8cc921a4eb4.ts
-NHKBS1,p8p://198.255.106.42:16871/5d40058100043b7170eeeaa0dd43366a.ts
-BS朝日,p8p://198.255.106.42:16871/5d400582000d61d070eef0e0b97dc63c.ts
-関西テレビ,p8p://198.255.106.42:16871/5d40057f0002f0b670eee27c7e0cae84.ts
-MBS毎日放送,p8p://198.255.106.42:16871/5d40057e000b0ab570eee0a6c5bec41b.ts
-Nation,p8p://198.255.106.42:16871/5d1a69e2000bb03311be92ef2a2330ac.ts
-25,p8p://198.255.106.42:16871/5d1a695e000a3f8f11bc8ef07ef72e30.ts
-Movie_TV,p8p://198.255.106.42:16871/5d1a69e100040c4b11be8d124a4f4447.ts
-WP,p8p://198.255.106.42:16871/5d1a69f600023bca11bedea3bf1b937b.ts
-3,p8p://198.255.106.42:16871/5d1a695f000648b011bc91d5fde79a51.ts
-No_Service,p8p://198.255.106.42:16871/5d1a69e7000cff0b11bea6cd57a945c2.ts
-ThairathTv,p8p://198.255.106.42:16871/5d1a69ee000cf50811bec2224d35c419.ts
-CH.9,p8p://198.255.106.42:16871/5d1a69710006f75211bcd8515d005138.ts
-News_1,p8p://198.255.106.42:16871/5d1a69e50009ada611be9e2382445a24.ts
-7,p8p://198.255.106.42:16871/5d1a69600001e93b11bc949ed0710e31.ts
-8,p8p://198.255.106.42:16871/5d1a6960000d01a711bc9775a84751d1.ts
-M_Channel,p8p://198.255.106.42:16871/5d1a69e000083da011be8a3df3ee304a.ts
-FAH_WAN_MAI,p8p://198.255.106.42:16871/5d1a697c0003bc2911bd027666ca5967.ts
-Spring,p8p://198.255.106.42:16871/5d1a69e9000f3cb011beaf2f0ed9fa6c.ts
-TPBS,p8p://198.255.106.42:16871/5d1a69f100012dda11becad65c4970fe.ts
-Super_Ent,p8p://198.255.106.42:16871/5d1a69eb00066bb811beb4be2e00f8bf.ts
-News1_(USA),p8p://198.255.106.42:16871/5d1a69e600058ab011bea0fc8a6fa32d.ts
-CH.1,p8p://198.255.106.42:16871/5d1a6970000ba43811bcd59c32d704df.ts
-TGN,p8p://198.255.106.42:16871/5d1a69ee00020c6911bebf57495301ab.ts
